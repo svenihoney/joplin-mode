@@ -28,6 +28,7 @@
 
 ;;; Code:
 
+;;;###autoload
 (define-derived-mode joplin-mode
   markdown-mode "Joplin"
   "Major mode for Joplin notes."
